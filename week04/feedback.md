@@ -2,7 +2,7 @@
 Each week, you'll receive a feedback file in GitHub showing a final grade and any specific comments on your assignment, including why points (if any) were deducted.
 
 
-## Final Score: 8.5/10
+## Final Score: 8/10
 
 ## Multiple Choice:
 _Did you complete and submit the multiple choice part of the assignment?_
@@ -10,7 +10,7 @@ _Did you complete and submit the multiple choice part of the assignment?_
 
 ## Functionality: 
 _Did your code do what the assignment required?_
-***(-1.5) Your code for 20.2 does not print the necessary outputs. Check the loops.***
+***(-2) Your code for 20.2 does not print the necessary outputs. Check the loops. One answer in multiple choice is wrong***
 
 ## Coding Best Practices:
 _Was your code readable, efficient, and in line with what we learned in class?_
