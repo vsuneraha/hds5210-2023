@@ -13,7 +13,7 @@ Each week, you'll receive a feedback file in GitHub showing a final grade and an
 * 1 pts - Found column with most distinct values
 * 2 pts - Found any columns that were redundant
 * 2 pts - Created histogram of one numeric column
-* 1 pts - Provided discussion in Slack - **Good job!**
+* 1 pts - Provided discussion in Slack
 
 ## Coding Best Practices:
 _Was your code readable, efficient, and in line with what we learned in class?_
